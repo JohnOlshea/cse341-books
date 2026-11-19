@@ -4,7 +4,7 @@ A read-only Books API built with Express and MongoDB for CSE 341 - W01 Assignmen
 
 ## Live API
 
-Deployed URL: https://YOUR-RENDER-URL.onrender.com
+Deployed URL: https://cse341-books-0f3f.onrender.com
 
 > Replace `YOUR-RENDER-URL` with your real Render URL before you submit.
 
